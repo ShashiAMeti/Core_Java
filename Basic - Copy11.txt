@@ -1,0 +1,6 @@
+Class Hi
+{
+public Static void main String args[] 
+
+Systom.out.println("HELLO");
+}
